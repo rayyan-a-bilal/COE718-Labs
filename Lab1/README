@@ -1,0 +1,8 @@
+The purpose of this lab was to provide an introduction to the Keil uVision IDE, the ARM Cortex M3
+architecture as well as other various features. The lab provides an in depth guide for the fundamental steps
+to coding, compiling and executing a program on the M3 processor on the NXP LPC1768
+microcontroller. This chip on the MCB1700 development board will allow debugging and running simple
+embedded programs. The lab also focuses on how to simulate and analyze the lab results. The skills
+acquired through this lab will be highly valuable in real-world embedded development scenarios, given
+that ARM-based processors are widely used in embedded systems for their low power consumption and
+competitive performance.
